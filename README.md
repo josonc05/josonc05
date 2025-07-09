@@ -4,7 +4,8 @@
 ---
 
 ### 🚀 About Me
-- 🧠 Currently learning **Django** and **React**
+- 🔭 I’m currently working on: A console-based Amazon clone  
+- 🌱 Learning: Django (backend) and React (frontend)  
 - 💻 Building real-world projects to improve my skills
 
 ---
